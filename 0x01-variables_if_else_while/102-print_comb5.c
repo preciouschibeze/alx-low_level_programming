@@ -13,7 +13,7 @@
  * You are not alllowed to use any variables of type `char`.
  * Return: 0
  */
-int main(void);
+int main(void)
 {
 	int i, j;
 	int a, b, c, d;
@@ -24,7 +24,7 @@ int main(void);
 		b = i % 10; /* singles fnum */
 
 		for (j = 0; j < 100; j++)
-		{	
+		{
 			c = j / 10; /* doubles snum */
 			d = j % 10; /* singles snum */
 
