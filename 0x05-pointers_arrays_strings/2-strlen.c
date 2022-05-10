@@ -13,9 +13,3 @@ int _strlen(char *s)
 		len++;
 	return (len);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
